@@ -2,6 +2,7 @@
 
 This project demonstrates how to use the ESP32 microcontroller to build a CAN Bus communication node for diagnostics, sensor control, and device interfacing in automotive or industrial environments.
 
+![header](https://github.com/sidortal/OBB-Expansion/blob/main/CANBus.jpg)
 ---
 
 ## Project Overview
@@ -22,7 +23,7 @@ The ESP32 is used as a low-cost, low-power CAN node to monitor and control devic
   - Industrial sensors (e.g., temperature, pressure)
 
 ---
-
+![header](https://github.com/sidortal/OBB-Expansion/blob/main/CanHat.jpg)
 ## Hardware Wiring
 
 ### ESP32 ↔ MCP2515 (CAN Module)
@@ -76,7 +77,7 @@ The ESP32 is used as a low-cost, low-power CAN node to monitor and control devic
 **MIT License.**
 
 ---
-
+![header](https://github.com/sidortal/OBB-Expansion/blob/main/ESP32-blink-gif.gif)
 ## Example Arduino Code: CAN Transmit
 
 ```cpp
